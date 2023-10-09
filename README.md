@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Dotnet, Angular**
 
-- 💬 Ask me about **MERN, DSA**
+- 💬 Ask me about **MEAN, DSA**
 
 - 📫 How to reach me **ghildiyala5@gmail.com**
 
